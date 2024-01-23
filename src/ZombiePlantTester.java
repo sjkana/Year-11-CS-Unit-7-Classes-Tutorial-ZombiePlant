@@ -7,7 +7,7 @@ public class ZombiePlantTester {
     private ZombiePlant zombiePlant;
 
     public void setUp() {
-        zombiePlant = new ZombiePlant(10,3);
+        zombiePlant = new ZombiePlant(10, 3);
     }
 
     public void tearDown() {
